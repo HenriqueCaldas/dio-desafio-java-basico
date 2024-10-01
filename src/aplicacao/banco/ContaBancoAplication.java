@@ -1,11 +1,15 @@
 package aplicacao.banco;
 
+/*
+ * Classe principal da aplicacao que inicia o sistema
+ */
 public class ContaBancoAplication {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
 		
+		//Cria uma contaTeminal para poder chamar o metodo iniciar
 		ContaTerminal contaTerminal = new ContaTerminal();
 		
-		contaTerminal.iniciar();
+		contaTerminal.iniciar();//Chama o metodo iniciar
+		
 	}
 }
