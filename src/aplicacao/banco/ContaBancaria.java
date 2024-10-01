@@ -8,7 +8,7 @@ public class ContaBancaria {
 	private int numeroConta; // Numero da conta
 	private double saldo; // Saldo da conta
 
-	/*
+	/**
 	 * Cria uma nova ContaBancaria com o numero da conta e saldo
 	 * 
 	 * @param numeroConta O numero da Conta

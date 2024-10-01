@@ -1,6 +1,6 @@
 package aplicacao.banco;
 
-/*
+/**
  * Classe principal da aplicacao que inicia o sistema
  */
 public class ContaBancoAplication {
